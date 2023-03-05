@@ -1,0 +1,22 @@
+#botao {
+    background-color: #991818;
+    font-weight: bolder;
+    padding: 6px 13px;
+    border-width: 3px;
+    color: white;
+}
+
+.cadastrar {
+    background-color: gold;
+    height: 100px;
+    margin-top: 5px;
+}
+
+#botao {
+    margin-left: 14px;
+}
+
+.input {
+    margin-top:15px;
+    margin-left: 14px;
+}
